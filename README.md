@@ -1,2 +1,2 @@
 # TimeSeries_Analysis
-Timeseries course from Analytics Vidhya
+This is a project on Time series based on the Traffic data.
